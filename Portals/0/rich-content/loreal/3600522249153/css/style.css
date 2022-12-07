@@ -347,7 +347,7 @@ body {
   padding-bottom: 70px;
 }
 #es-loreal.es-loreal .es-feedback__item::after {
-  content: url('./images/bullet.png');
+  content: url('https://www.ros.net.pl/Portals/0/rich-content/loreal/3600522249153/images/bullet.png');
   position: absolute;
   left: -26px;
   top: 0px;
